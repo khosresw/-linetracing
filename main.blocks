@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="forever" id="~k.F_ruRfDl]GMf!N0Vu" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="f8c4ig%oVV$y^X0x]NqY"><value name="IF0"><shadow type="logic_boolean" id="S5HRNFi^Fd-}:WChZKv;"><field name="BOOL">TRUE</field></shadow></value></block></statement></block></xml>
